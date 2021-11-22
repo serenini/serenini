@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @serenini
-- 👀 I’m interested in Spatial Analysis, Economics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Renan Serenini. PhD Student in Economics at Sapienza University of Rome.
+- 
+- 👀 I’m interested in Spatial Analysis and Causal Inference.
 - 📫 How to reach me renan.serenini@uniroma1.it
 
 <!---
