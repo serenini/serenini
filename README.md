@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Renan Serenini. PhD Student in Socio-Economic and Statistical Studies at Sapienza University of Rome.
+- 👋 Hi, I’m Renan Serenini. PhD in Socio-Economic and Statistical Studies at Sapienza University of Rome.
  
 - 👀 I’m interested in Spatial Analysis and Causal Inference.
 - 📫  renan.serenini@uniroma1.it
